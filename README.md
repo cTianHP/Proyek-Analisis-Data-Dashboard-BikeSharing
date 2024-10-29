@@ -16,7 +16,7 @@ cd proyek_analisis_data
 pip install -r requirements.txt
 ```
 
-## Menjankan Dasboard
+## Menjalankan Dasboard
 ```
 cd dashboard
 streamlit run dashboard.py
