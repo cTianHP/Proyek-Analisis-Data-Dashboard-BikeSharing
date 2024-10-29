@@ -5,7 +5,7 @@ import millify
 
 st.set_page_config(page_title="Bike Sharing Dashboard", page_icon="🚲", layout="wide")
 
-df = pd.read_csv('hour.csv')
+df = pd.read_csv('./hour.csv')
 
 st.title('🚲 Bike Sharing Dashboard 2011 dan 2012 🚲')
 
