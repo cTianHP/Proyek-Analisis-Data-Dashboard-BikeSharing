@@ -2,10 +2,14 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import millify
+import os
 
 st.set_page_config(page_title="Bike Sharing Dashboard", page_icon="🚲", layout="wide")
 
-df = pd.read_csv('./hour.csv')
+current_dir = os.path.dirname(__file__)
+csv_path = os.path.join(current_dir, 'hour.csv')
+
+df = pd.read_csv(csv_path)
 
 st.title('🚲 Bike Sharing Dashboard 2011 dan 2012 🚲')
 
