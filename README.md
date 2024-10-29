@@ -11,8 +11,8 @@ Dataset Source: [Bike Sharing Dataset](https://www.kaggle.com/datasets/lakshmi25
 ## Setup Environment
 
 ```
-mkdir proyek_analisis_data
-cd proyek_analisis_data
+git clone git clone https://github.com/cTianHP/Proyek-Analisis-Data-Dashboard-BikeSharing.git
+cd Proyek-Analisis-Data-Dashboard-BikeSharing
 pip install -r requirements.txt
 ```
 
