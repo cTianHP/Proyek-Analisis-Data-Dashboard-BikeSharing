@@ -1,6 +1,7 @@
 # 🚲 Bike Sharing Dashboard 2011 dan 2012 🚲
 
 ---
+![Bike Sharing Dashboard](./img/dashboard.jpg)
 
 Saya membuat proyek pribadi berupa Dashboard interaktif yang memvisualisasikan data penyewaan sepeda per jam dari tahun 2011 hingga 2012, menggunakan Bike Sharing Dataset. Dashboard ini menampilkan pola jumlah penyewaan sepeda berdasarkan waktu, cuaca, hari kerja/libur, dan musim, sehingga memudahkan untuk memahami tren penggunaan sepeda di berbagai kondisi.
 
